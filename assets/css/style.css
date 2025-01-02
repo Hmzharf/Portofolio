@@ -353,9 +353,9 @@ main {
 .info-content .title {
   color: var(--white-1);
   background: var(--onyx);
-  font-size: var(--fs-8);
+  font-size: 24px;
   font-weight: var(--fw-300);
-  width: 24px;
+  width: max-contet;
   padding: 3px 12px;
   border-radius: 8px;
 }
