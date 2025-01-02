@@ -351,13 +351,14 @@ main {
 }
 
 .info-content .title {
-  color: var(--white-1);
-  background: var(--onyx);
-  font-size: 24px;
-  font-weight: var(--fw-300);
-  width: max-contet;
-  padding: 3px 12px;
-  border-radius: 8px;
+  color: var(--white-1); 
+  background: var(--onyx); 
+  font-size: var(--fs-2); 
+  font-weight: var(--fw-300); 
+  width: max-content; 
+  padding: 3px 12px; 
+  border-radius: 8px; 
+
 }
 
 .info_more-btn {
