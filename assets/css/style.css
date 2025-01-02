@@ -1,4 +1,4 @@
-/*-----------------------------------*\
+d/*-----------------------------------*\
   #style.css
 \*-----------------------------------*/
 
@@ -353,7 +353,7 @@ main {
 .info-content .title {
   color: var(--white-1);
   background: var(--onyx);
-  font-size: var(--fs-2);
+  font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
   padding: 3px 12px;
