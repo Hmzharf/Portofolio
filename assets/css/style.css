@@ -355,7 +355,7 @@ main {
   background: var(--onyx);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
-  width: flex;
+  width: 24px;
   padding: 3px 12px;
   border-radius: 8px;
 }
